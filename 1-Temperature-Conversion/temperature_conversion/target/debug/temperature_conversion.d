@@ -1,0 +1,1 @@
+/mnt/c/Users/jekis/Projects/Rust/3_Common_Concepts/4_Practice/TemperatureConversion/temperature_conversion/target/debug/temperature_conversion: /mnt/c/Users/jekis/Projects/Rust/3_Common_Concepts/4_Practice/TemperatureConversion/temperature_conversion/src/main.rs
