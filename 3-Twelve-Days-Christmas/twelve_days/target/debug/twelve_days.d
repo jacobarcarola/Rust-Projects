@@ -1,0 +1,1 @@
+/mnt/c/Users/jekis/Projects/Rust/3_Common_Concepts/4_Practice/TwelveDaysChristmas/twelve_days/target/debug/twelve_days: /mnt/c/Users/jekis/Projects/Rust/3_Common_Concepts/4_Practice/TwelveDaysChristmas/twelve_days/src/main.rs
