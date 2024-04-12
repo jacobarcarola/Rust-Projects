@@ -1,0 +1,1 @@
+/mnt/c/Users/jekis/Projects/Rust/3_Common_Concepts/4_Practice/NthFib/nthfibonacci/target/debug/nthfibonacci: /mnt/c/Users/jekis/Projects/Rust/3_Common_Concepts/4_Practice/NthFib/nthfibonacci/src/main.rs
